@@ -56,10 +56,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=pawaters&show_icons=true&theme=tokyonight&count_private=true" />
   </a>
-  &emsp;&emsp;
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaters&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
 </div>    
 <br>
 
