@@ -52,7 +52,7 @@ My best projects are pinned below and here is a first intro:
 
 
 ### 📫 Full professional information:
-- <a href='https://www.linkedin.com/in/pierrealbanwaters/'><img heigth='50' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href='https://www.linkedin.com/in/pierrealbanwaters/'><img heigth='50' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 
 <div align="center" style="display: inline_block">
   <h2>Checkout my GitHub stats</h2> 
