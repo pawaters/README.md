@@ -8,11 +8,11 @@
 - with experience in entrepreneurship and management consulting, fluent in French/English/Spanish, Finnish: B1/B2 YKI certificate
 
 My best projects are pinned below and here is a first intro: 
-- Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. Live: http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/
-- Picture-sharing app: PHP, HTML, CSS, SQL. No external libraries, except Bootstrap CSS. Live: https://pic-sharing-app.herokuapp.com/
-- My C library: My own implementation of the standard C library, from scratch. Git.
-- Tetris algo: C. Make the smallest possible "square" with tetriminoes, no external libraries used.
-
+- Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. Live: http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/. 
+- Picture-sharing app: PHP, HTML, CSS, SQL. No external libraries, except Bootstrap CSS. Live: https://pic-sharing-app.herokuapp.com/. 
+- My C library: My own implementation of the standard C library, from scratch. Git.  
+- Tetris algo: C. Make the smallest possible "square" with tetriminoes, no external libraries used.  
+  
 
 <h2 align="center">🚀 Languages</h2> 
 <div align="center" style="display: inline_block" ><br>
