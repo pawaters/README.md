@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 - Looking for a Frontend / FullStack Developer - junior position or internship.
-- Stack: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design. PHP, HTML, CSS, SQL
+- Stack: JavaScript / TypeScript, Node.js, Express, React, Redux, MUI. PostgreSQL, MongoDB. Docker, AWS, WebSockets, REST API. Responsive design. PHP, HTML, CSS, SQL, C.
 - Strengths: Fast learner, result focused, team player.
 - Graduated from [Hive Helsinki](https://www.hive.fi/), Selective coding school (5% acceptance rate), project-based, with code reviews
 - with experience in entrepreneurship and management consulting, fluent in French/English/Spanish, Finnish: B1/B2 YKI certificate
