@@ -11,7 +11,7 @@
 - HTML/CSS: MUI, Bootstrap. Database: MySQL, PostgreSQL, MongoDB.   
 - Other: C, PHP, Jira, Git, Github, Docker, Linux, BASH, SSH, AWS. 
 
-📄[My CV](https://docs.google.com/document/d/1icwHtvCrB9USWxKaBVgNUWWBO1gmV9BIkO4nca1xV78/edit?usp=share_link), my [Linkedin](http://www.linkedin.com/in/pierrealbanwaters) profile for more detail.
+📄[My CV](https://docs.google.com/document/d/1icwHtvCrB9USWxKaBVgNUWWBO1gmV9BIkO4nca1xV78/edit?usp=share_link), and my [Linkedin](http://www.linkedin.com/in/pierrealbanwaters) profile for more detail.
 
 My best projects are pinned below and here is a first intro: 
 - Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. Live: http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/. 
