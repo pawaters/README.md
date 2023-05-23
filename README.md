@@ -1,11 +1,16 @@
 ### <img width='25' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi there !
 
 ### 👨‍💻 About me:
-- Looking for a Frontend / FullStack Developer - junior position or internship.
-- Stack: JavaScript / TypeScript, Node.js, Express, React, Redux, MUI. PostgreSQL, MongoDB. Docker, AWS, WebSockets, REST API. Responsive design. PHP, HTML, CSS, SQL, C.
-- Strengths: Fast learner, result focused, team player.
-- Graduated from [Hive Helsinki](https://www.hive.fi/), Selective coding school (5% acceptance rate), project-based, with code reviews
-- with experience in entrepreneurship and management consulting, fluent in French/English/Spanish, Finnish: B1/B2 YKI certificate
+🎯 I’m looking for a job: junior software developer in Helsinki Metropolitan Area.
+👤 My profile: Full Stack developer with experience in entrepreneurship and management consulting. Fast learner, result focused, team player. 
+🎓 Graduated from [Hive Helsinki](https://www.hive.fi/), Selective coding school (5% acceptance rate), project-based, with code reviews.
+⏳ Permanent job, or internship for 6 months or more. 
+⌚ When: immediate availability, flexible start date.
+👨‍💻 My Tech Stack: 
+- Javascript/Typescript: ReactJS, NodeJS, ExpressJS, Redux, jQuery, WebSockets, REST APIs. 
+- HTML/CSS: MUI, Bootstrap. Database: MySQL, PostgreSQL, MongoDB. 
+- Other: C, PHP, Jira, Git, Github, Docker, Linux, BASH, SSH, AWS
+📄[My CV]([url](https://docs.google.com/document/d/1icwHtvCrB9USWxKaBVgNUWWBO1gmV9BIkO4nca1xV78/edit?usp=share_link))
 
 My best projects are pinned below and here is a first intro: 
 - Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. Live: http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/. 
