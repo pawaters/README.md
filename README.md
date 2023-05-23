@@ -4,7 +4,7 @@
 🎯 I’m looking for a job: junior software developer in Helsinki Metropolitan Area.  
 👤 My profile: Full Stack developer with experience in entrepreneurship and management consulting. Fast learner, result focused, team player.   
 🎓 Graduated from [Hive Helsinki](https://www.hive.fi/), Selective coding school (5% acceptance rate), project-based, with code reviews.  
-⏳ Permanent job, or internship for 6 months or more.   
+⏳ Permanent job, or internship for 6 months or more. Eligible for pay subsidy of 30% during 6 months by TE.
 ⌚ When: immediate availability, flexible start date.  
 👨‍💻 My Tech Stack:   
 - Javascript/Typescript: ReactJS, NodeJS, ExpressJS, Redux, jQuery, WebSockets, REST APIs.   
