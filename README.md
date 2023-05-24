@@ -14,8 +14,8 @@
 📄[My CV](https://docs.google.com/document/d/1icwHtvCrB9USWxKaBVgNUWWBO1gmV9BIkO4nca1xV78/edit?usp=share_link), and my [Linkedin](http://www.linkedin.com/in/pierrealbanwaters) profile for more detail.
 
 My best projects are pinned below and here is a first intro: 
-- Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. Live: http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/. 
-- Picture-sharing app: PHP, HTML, CSS, SQL. No external libraries, except Bootstrap CSS. Live: https://pic-sharing-app.herokuapp.com/. 
+- Match-making app: JavaScript, Node.js, Express, React, Redux, MUI, PostgreSQL. Docker, AWS, WebSockets, REST API. Responsive design, instant notifications, user testing. [Live]([url](http://ec2-13-48-249-22.eu-north-1.compute.amazonaws.com/))
+- Picture-sharing app: PHP, HTML, CSS, SQL. No external libraries, except Bootstrap CSS. [Live]([url](https://camagru.herokuapp.com/))
 - My C library: My own implementation of the standard C library, from scratch. Git.  
 - Tetris algo: C. Make the smallest possible "square" with tetriminoes, no external libraries used.  
   
