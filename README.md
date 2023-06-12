@@ -9,7 +9,7 @@
 👨‍💻 My Tech Stack:   
 - Javascript/Typescript: ReactJS, NodeJS, ExpressJS, Redux, jQuery, WebSockets, REST APIs.   
 - HTML/CSS: MUI, Bootstrap. Database: MySQL, PostgreSQL, MongoDB.   
-- Other: C, PHP, Jira, Git, Github, Docker, Linux, BASH, SSH, AWS. 
+- Other: C, PHP, Python/django. Jira, Git, Github, Docker, Linux, BASH, SSH, AWS. 
 
 📄[My CV](https://docs.google.com/document/d/1icwHtvCrB9USWxKaBVgNUWWBO1gmV9BIkO4nca1xV78/edit?usp=share_link), and my [Linkedin](http://www.linkedin.com/in/pierrealbanwaters) profile for more detail.
 
